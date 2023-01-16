@@ -2,51 +2,37 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Shea Andrews
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD, Medical Sciences
+      institution: The Australian National University, ACT, Australia
+      year: 2017
+    - title: BSc, Major in Genetics with Honours Class I in Biochemistry
+      institution: The University of Queensland, QLD, Australia
+      year: 2012
+    - title: BA, dual Major in Journalism and Mass Communication, and Political Science
+      institution: The University of Queensland, QLD, Australia
+      year: 2010
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor 
+      institution: University of California San Francisco, San Francisco, CA
+      year: 2022 - pres
+    - title: Instructor
+      institution: Icahn School of Medicine at Mount Sinai, New York, NY
+      year: 2021 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Laboratory of Dr. Alison Goate
+        - Using genomics to identify risk factors for Alzheimer's disease
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
