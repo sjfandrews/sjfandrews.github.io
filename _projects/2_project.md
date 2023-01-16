@@ -1,80 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Environmental risk factors in cogntive decline
+description: Assessing the Association of environmental/lifestyle risk factors with cognitive impairment and function
+img: 
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Accurate risk assessment for cognitive impairment and dementia is increasingly important given the current lack of effective disease-modifying treatments for AD and other dementias. Validated risk assessment tools that can be administered at very low cost provide methods for low-income countries and regions to assess dementia risk and apply prevention strategies. Given current projections of increasing dementia prevalence, there is an urgent need for validated risk assessment tools that have been evaluated on well-characterized samples, over long time periods. To address this important issue, I investigated the association of an AD genetic risk score and a risk score comprised of lifestyle, medical, and demographic factors (the ANU-ADRI) with the risk of progression from normal cognition to Mild Cognitive Impairment (MCI) or Dementia. I observed that a higher score (indicating greater risk) on the ANU-ADRI was predictive of progression from normal cognition to MCI/Dementia, while the genetic risk score was not. Secondly, I investigated the association of the ANU-ADRI and GRS with two latent factors representing general cognitive a32514bility and dementia severity. I observed that a higher ANU-ADRI was associated with both general cognitive ability and dementia severity, however, it was associated with a larger deleterious effect on dementia severity. In contrast, the GRS was only associated with a deleterious effect on dementia severity. These results complement previous evidence that the ANU-ADRI is predictive of AD and dementia. This also provides further support for using the ANU-ADRI for individual patient assessment and for informing intervention and treatment strategies aimed at delaying or preventing dementia.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Selected Publications: 
+1.	Andrews SJ, Eramudugolla R, Velez JI, Cherbuin N, Easteal S, Anstey KJ. (2017). Validating the role of the Australian National University Alzheimer’s Disease Risk Index (ANU-ADRI) and a genetic risk score in progression to cognitive impairment in a population-based cohort of older adults followed for 12 years. Alzheimer’s Research & Therapy. 9:1-16. PubMed PMID: 28259165
+2.	Andrew SJ, McFall G, Dixon R, Cherbuin N, Eramudugolla R, Anstey K. (2018). Alzheimer’s environmental and genetic risk scores are differentially associated with general cognitive ability and dementia severity. Alzheimer Disease & Associated Disorders. 33(2):95-103. PubMed PMID: 30681434.

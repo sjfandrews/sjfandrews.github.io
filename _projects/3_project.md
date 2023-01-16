@@ -1,81 +1,16 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Causal risk factors for Alzheimer's disease
+description: Identifying the causal associations underling Alzheimer’s disease
+img: 
 redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Identifying the causal associations underling Alzheimer’s disease: Alzheimer’s disease (AD) is a global crisis facing the aging population and society as a whole. With the number of people living with AD predicted to rise dramatically in the coming decades, it is imperative to pursue research that aims to reduce the expected incidence of dementia, such as identifying modifiable risk factors for lifestyle interventions. A prerequisite to establishing lifestyle interventions is demonstrating a causal effect of the proposed exposure (a risk factor) on AD or AD endophenotypes. Genomic information can be used in polygenic risk score (PRS) and Mendelian randomization (MR) analysis to identify causal risk factors for disease. PRS provide an estimate of an individual's genetic propensity to a trait and can be used to infer genetic overlap between phenotypes via predicting one phenotype from the PRS of another. MR uses genetic variants as proxies for exposures to provide an estimate of the causal association between an intermediate exposure and an outcome and conceptually similar to a ‘genetic randomized control trial’ due to the random allocation of genotypes from parents to offspring. Using PRS and MR, I investigated causal relationships between 22 previously reported risk factors for AD and the “AD phenome”: composed of AD, AD age of onset (AAOS), hippocampal volume, cortical surface area and thickness, cerebrospinal ﬂuid (CSF) levels of amyloid-β (Aβ42), tau, and ptau181, and the neuropathological burden of neuritic plaques, neuroﬁbrillary tangles (NFTs), and vascular brain injury (VBI). Polygenic risk scores (PRS) for the 22 risk factors were computed in 26,431 AD cases/controls and the association with AD was evaluated using logistic regression. Two-sample Mendelian randomization (MR) was used to infer the causal effect of risk factors on the AD phenome. Our comprehensive examination of the genetic evidence for the causal relationships between previously reported risk factors in AD using PRS and MR supports a causal role for education, blood pressure, cholesterol levels, smoking, and diabetes with the AD phenome.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Selected Publications:
+1.	Andrews SJ & Goate A. (2019). Mendelian randomization indicates that TNF is not causally associated with Alzheimer’s disease. Neurobiology of Aging. 84:241-e1. PubMed PMID: 31587925
+2.	Andrews SJ, Goate A & Anstey K. (2020). Association between alcohol consumption and Alzheimer’s disease: A Mendelian Randomization Study. Alzheimer’s Dementia 16:345–353. PubMed PMID: 31786126
+3.	Andrews SJ, Fulton-Howard B, O’Reilly P, Marcora E, Goate A. (2021). Causal Associations Between Modifiable Risk Factors and the Alzheimer’s Phenome. Annals of Neurology 89:54–65. PubMed PMID: 32996171

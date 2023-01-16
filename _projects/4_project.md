@@ -1,80 +1,15 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Mitochondrial Dysfunction
+description: Examining the role of Mitochondrial Genomics in Alzheimer’s disease
 img:
 importance: 3
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The central nervous system is particularly vulnerable to impaired mitochondrial metabolism because of its high-energy demands. Increasing evidence links mitochondrial dysfunction to neurodegenerative diseases such as AD. Each mitochondrion possesses its own 16,569 base pair circular genome (mtDNA) that encodes 37 genes. We quantified brain-derived mtDNA abundance postmortem brain tissue and evaluated the association of mtDNA abundance with AD neuropathology. Reduced brain-derived mtDNA abundance was associated with increased AD neuropathology and worse cognitive performance. Mediation analysis further indicated that 30% of the effect of mtDNAcn on global cognition was mediated by tau pathology or global AD pathology. These results indicate that changes in mitochondrial function resulting from altered mtDNA genome abundance levels may initiate or mediate AD neuropathology or the cellular response to AD neuropathology. We have also demonstrated that interactions between genetic variation on the mitochondrial genome and nuclear genome influence AD risk.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Selected Publications: 
+1.	McInerney WT, Fulton-Howard B, Patterson C, Paliwal D, Jermiin LS, Patel HR, Swerdlow RH, Pa J, Goate A, Easteal S, Andrews SJ. (2021). A globally diverse reference alignment and panel for imputation of mitochondrial DNA variants. BMC Bioinformatics. 22(417). PubMed PMID: 34470617.
+2.	Paliwal D, McInerney WT, Pa J, Swerdlow RH, Easteal S, Andrews SJ. (2021). Mitochondrial pathway polygenic risk scores are associated with Alzheimer’s Disease. Neurobiology of Aging. 108, 213–222. PubMed PMID: 34521561
+3.	Harerimana NV, Paliwal D, Romero Molina C, Bennet D, Pa J, Goate A, Swerdlow RH, Andrews SJ. (2022) The Role of Mitochondrial genome abundance in Alzheimer’s Disease. Alzheimer’s & Dementia. In press.

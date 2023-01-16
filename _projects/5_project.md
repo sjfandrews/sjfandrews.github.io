@@ -1,80 +1,17 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: COVID-19
+description: Uncovering causal risk factors associated with SARS-CoV-2 infection and COVID-19 severity
+img: 
+importance: 5
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The coronavirus disease 2019 (COVID-19) pandemic, caused by infections with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has resulted in enormous health and economic burden worldwide. Host genetics can contribute to susceptibility and response to viral infection and the identification of host- specific genetic factors can indicate biological mechanisms of therapeutic relevance and clarify causal relationships of modifiable environmental risk factors for SARS-CoV-2 infection and outcomes. As part of the COVID-19 Host Genetic Initiative, a global network of researchers investigating the human genetics of SARS- COV-2 infection and COVID-19 severity, I led the Mendelian randomization working group that aimed to identify causal modifiable risk factors for SARS-CoV-2 infection and outcomes. We first investigated the genetic correlations between a set of 38 disease, health and neuropsychiatric phenotypes as potential COVID-19 risk factors based on their putative relevance to the disease susceptibility, severity, or mortality with SARS-CoV-2 infection, COVID-19 hospitalization and COVID-19 critical illness. Genetic correlations were observed between BMI, smoking, risk tolerance, ADHD, coronary artery disease diabetes, ischemic stroke and lupus and COVID-19 outcomes. Using Mendelian randomization, it was found that BMI, smoking, height, and red blood cell count were robustly causally associated with SARS-CoV-2 infection or COVID-19 severity.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Selected Publications: 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+1.	The COVID-19 Host Genetic Initiative. (2021). Mapping the human genetic architecture of COVID-19.
+Nature. 600,472-477. PubMed PMID: 34237774
+2.	Fadista, J. Kraven L, Karajalainen J, Andrews SJ, Geller F. (2021). Shared genetic etiology between idiopathic pulmonary fibrosis and COVID-19 severity. Ebiomedicine 65, 103277. PubMed PMID: 33714028
+3.	The COVID-19 Host Genetic Initiative. (2022). A first update on mapping the human genetic architecture of COVID-19. Nature 608, E1–E10. PubMed PMID: 35922517

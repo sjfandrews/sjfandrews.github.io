@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research seeks to understand the role of both genetic and non-genetic risk factors in the development of Alzheimer’s disease.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
