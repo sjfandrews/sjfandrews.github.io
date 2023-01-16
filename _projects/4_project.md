@@ -3,7 +3,7 @@ layout: page
 title: Mitochondrial Dysfunction
 description: Examining the role of Mitochondrial Genomics in Alzheimer’s disease
 img:
-importance: 3
+importance: 4
 category: work
 ---
 
