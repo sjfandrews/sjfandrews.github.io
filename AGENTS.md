@@ -33,4 +33,4 @@ bundle exec jekyll build
 
 For local preview, use `bundle exec jekyll serve` or `docker compose up`, then inspect `http://localhost:8080` for the Docker workflow. Pre-commit checks can be run with `pre-commit run --all-files` when available.
 
-The GitHub Actions workflow builds with Ruby 3.0.2 and deploys pushes to `master`/`main` through `bin/deploy`. Never run `bin/deploy` casually: it switches branches, rebuilds the site, and force-pushes `gh-pages`.
+The GitHub Actions workflow builds with Ruby 3.2.2 and deploys pushes to `master`/`main` through `bin/deploy`. Never run `bin/deploy` casually: it switches branches, rebuilds the site, and force-pushes `gh-pages`.
