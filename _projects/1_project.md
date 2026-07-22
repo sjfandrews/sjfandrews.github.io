@@ -1,16 +1,21 @@
 ---
 layout: page
-title: Genetic risk factors in cogntive decline
-description: Evaluating the association of genetic risk factors with cognitive decline
-img: 
+title: Integrated genetic-exposome risk assessment for precision dementia care
+description: Integrating inherited susceptibility with modifiable risk burden to support earlier, more personalized dementia prevention
+img:
 importance: 1
 category: work
 ---
 
-Late-onset Alzheimer’s disease (LOAD) susceptibility genes are good candidates for association with cognitive decline, as the pathological features of LOAD progress to varying degrees in individuals without dementia or cognitive impairment. However, to date, studies investigating the role of AD risk loci in cognitive decline have been characterized by a lack of consensus. I investigated the role of known genetic variants associated with LOAD in cognitive function. This research improved upon previous studies by using a large well-characterized cohort with 12 years of follow-up, and with participants undergoing a comprehensive neuropsychological battery. It was observed that a subset of the AD risk loci were associated with cognitive function, however, the effect sizes were small, and when demographic and lifestyle factors are taken into account, neither individual SNPs nor a genetic risk score explained a meaningful proportion of the variance in cognitive decline in our sample. Additionally, in a systematic review of the literature (currently under review), we do not support a consistent association between individual non-APOE LOAD risk and cognitive performance or decline. However, evidence suggests that aggregate LOAD genetic risk exerts deleterious effects on decline in episodic memory and global cognition. This research indicates that individual AD-related genetic markers may have limited utility in identifying individuals at risk of cognitive decline. In contrast, genetic risk scores may offer more utility in predicting cognitive decline and impairment.
+Alzheimer’s disease risk reflects multiple sources of vulnerability, including inherited genetic variation, family history, clinical and lifestyle factors, and social determinants of health. These factors are commonly evaluated in isolation, making it difficult to develop a coherent picture of an individual’s risk or determine which biological processes each risk domain influences. My work addresses this gap by developing genetic-exposome dementia risk assessment (GEDRA), a framework that integrates inherited susceptibility with modifiable risk burden to support earlier and more personalized dementia prevention.
 
-Selected Publications: 
-1.	Andrews SJ, Das D, Cherbuin N, Anstey KJ, Easteal S. (2016). Association of genetic risk factors with cognitive decline: The PATH through life project. Neurobiology of Aging. 41: 150-158. PubMed PMID: 27103528
-2.	Andrews SJ, Das D, Anstey KJ, Easteal S. (2017). Association of AKAP6 and MIR2113 with cognitive performance in a population based sample of older adults. Genes, Brain and Behavior. 16(4): 472-478.
-PubMed PMID: 28067462
-3.	Andrews SJ, Das D, Anstey KJ, Easteal S (2017). Late Onset Alzheimer’s disease risk variants in cognitive decline: The PATH Through Life Study. Journal of Alzheimer’s disease. 57:423-436. PubMed PMID: 28269768
+I first developed a genomic-informed risk assessment that combined APOE genotype, an Alzheimer’s disease polygenic risk score, family history, and a clinical risk score. In two memory and aging cohorts, most participants had at least one high-risk indicator, and the risk of incident dementia increased as the number of indicators accumulated. This work showed that a structured risk report can bring together information that is usually considered separately and can identify both fixed sources of vulnerability and potentially modifiable targets for prevention.
+
+My group has since examined how these risk domains relate to Alzheimer’s disease pathophysiology. Using a diverse community-based cohort, we found that genetic, clinical, and social risk burdens were not interchangeable measures of overall risk. APOE was associated with amyloid and tau pathology, neurodegeneration, and cognition; polygenic risk was most closely related to amyloid and tau; clinical risk burden was most strongly related to neurodegeneration; and adverse social determinants of health were most strongly related to cognition. In cognitively unimpaired adults, we further showed that a cumulative score spanning APOE, polygenic risk, family history, and modifiable exposures was associated with multiple plasma biomarkers and with faster accumulation of phosphorylated tau. Together, these studies establish a framework in which complementary risk domains can be used to identify who is vulnerable, clarify the pathways contributing to that vulnerability, and guide the timing of biomarker testing, risk-factor reduction, and specialist care.
+
+## Selected publications
+
+- Andrews SJ, Tolosa-Tort P, Jonson C, et al. (2025). “The role of genomic-informed risk assessments in predicting dementia outcomes.” *Alzheimer’s & Dementia*. [doi:10.1002/alz.70826](https://doi.org/10.1002/alz.70826).
+- Okorie M, et al. (2026). “Orthogonal Contributions of Genetic, Clinical, and Social Determinants of Health Risk Burdens on Alzheimer’s Disease Pathophysiology.” *medRxiv*. [doi:10.64898/2026.07.07.26357509](https://doi.org/10.64898/2026.07.07.26357509).
+- Li MY, et al. (2026). “Multi-domain AD risk burden and plasma biomarkers in cognitively unimpaired adults.” *medRxiv*. [doi:10.64898/2026.06.11.26355499](https://doi.org/10.64898/2026.06.11.26355499).
+- Andrews SJ, Yaffe K. (2026). “Advancing Precision Dementia Care With Genetic-Exposome Risk Assessment.” *JAMA Neurology*. [doi:10.1001/jamaneurol.2026.0573](https://doi.org/10.1001/jamaneurol.2026.0573).

@@ -1,17 +1,31 @@
 ---
 layout: page
-title: COVID-19
-description: Uncovering causal risk factors associated with SARS-CoV-2 infection and COVID-19 severity
-img: 
+title: Mitochondrial genomics and dysfunction in cognitive aging and neurodegeneration
+description: Studying how mitochondrial and nuclear genomic variation contributes to cognitive aging and neurodegenerative disease
+img:
 importance: 5
 category: work
 ---
 
-The coronavirus disease 2019 (COVID-19) pandemic, caused by infections with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has resulted in enormous health and economic burden worldwide. Host genetics can contribute to susceptibility and response to viral infection and the identification of host- specific genetic factors can indicate biological mechanisms of therapeutic relevance and clarify causal relationships of modifiable environmental risk factors for SARS-CoV-2 infection and outcomes. As part of the COVID-19 Host Genetic Initiative, a global network of researchers investigating the human genetics of SARS- COV-2 infection and COVID-19 severity, I led the Mendelian randomization working group that aimed to identify causal modifiable risk factors for SARS-CoV-2 infection and outcomes. We first investigated the genetic correlations between a set of 38 disease, health and neuropsychiatric phenotypes as potential COVID-19 risk factors based on their putative relevance to the disease susceptibility, severity, or mortality with SARS-CoV-2 infection, COVID-19 hospitalization and COVID-19 critical illness. Genetic correlations were observed between BMI, smoking, risk tolerance, ADHD, coronary artery disease diabetes, ischemic stroke and lupus and COVID-19 outcomes. Using Mendelian randomization, it was found that BMI, smoking, height, and red blood cell count were robustly causally associated with SARS-CoV-2 infection or COVID-19 severity.
+## Inherited mitochondrial variation and mitonuclear biology
 
-Selected Publications: 
+The brain depends heavily on mitochondrial energy production, making it particularly vulnerable to impaired mitochondrial function. Mitochondria contain their own small genome, but most proteins needed for mitochondrial function are encoded by the nuclear genome. My work examines how variation across these two genomes contributes to Alzheimer’s disease and cognitive aging, while also developing the tools needed to study mitochondrial genetic variation accurately in diverse datasets.
 
-1.	The COVID-19 Host Genetic Initiative. (2021). Mapping the human genetic architecture of COVID-19.
-Nature. 600,472-477. PubMed PMID: 34237774
-2.	Fadista, J. Kraven L, Karajalainen J, Andrews SJ, Geller F. (2021). Shared genetic etiology between idiopathic pulmonary fibrosis and COVID-19 severity. Ebiomedicine 65, 103277. PubMed PMID: 33714028
-3.	The COVID-19 Host Genetic Initiative. (2022). A first update on mapping the human genetic architecture of COVID-19. Nature 608, E1–E10. PubMed PMID: 35922517
+I first demonstrated that mitochondrial haplogroups can interact with aggregate variation in nuclear-encoded mitochondrial genes to influence Alzheimer’s disease risk and age at onset. This work moved beyond evaluating the mitochondrial and nuclear genomes separately and provided evidence that compatibility between them may affect disease susceptibility. As senior author, I then used pathway-specific polygenic risk scores to show that inherited variation in nuclear genes involved in mitochondrial function is associated with Alzheimer’s disease, helping identify the mitochondrial pathways most relevant to disease risk.
+
+Mitochondrial studies have often been limited by incomplete genotyping and reference data that do not represent global diversity. To address this problem, my group developed MitoImpute, a curated reference panel and pipeline based on 36,960 complete mitochondrial genomes. The resource substantially improved haplogroup assignment and enabled missing mitochondrial variants to be recovered from older datasets. Using longitudinal data from midlife adults, we subsequently found that mitochondrial haplogroups were associated with processing speed and global cognition, whereas the total burden of heteroplasmy—the presence of more than one mitochondrial DNA sequence within a person—was not. Together, these studies establish both an analytic foundation and a biological framework for understanding inherited mitochondrial contributions to cognitive aging and neurodegeneration.
+
+## Mitochondrial DNA copy number and mitochondrial function
+
+Mitochondrial DNA copy number reflects the number of mitochondrial genomes present in a cell and provides a measurable feature of mitochondrial abundance and function. In a large postmortem brain study, my group found that lower mitochondrial genome abundance was associated with greater Alzheimer’s disease neuropathology and worse cognitive performance. Approximately one-third of its association with global cognition was explained by tau or overall Alzheimer’s disease pathology, supporting a model in which reduced mitochondrial abundance may contribute to the link between impaired cellular energy metabolism and clinical decline.
+
+We next used genetic correlation, polygenic risk scores, and Mendelian randomization to test whether mitochondrial DNA copy number is causally related to neurodegenerative disease. Results varied across copy-number datasets and measurement approaches, highlighting important sources of bias. Despite this variation, genetically predicted higher blood mitochondrial DNA copy number was associated with lower risk of Alzheimer’s disease, dementia, and Parkinson’s disease. We also found evidence that Alzheimer’s disease genetic liability may increase mitochondrial DNA copy number, potentially reflecting a compensatory response to early disease processes. Together, this work advances mitochondrial DNA copy number from an observational correlate toward a genetically supported marker of neurodegenerative disease, while emphasizing the importance of tissue, measurement method, and disease stage in its interpretation.
+
+## Selected publications
+
+- Andrews SJ, Fulton-Howard B, Patterson C, et al. (2020). “Mitonuclear interactions influence Alzheimer’s disease risk.” *Neurobiology of Aging*. [doi:10.1016/j.neurobiolaging.2019.09.007](https://doi.org/10.1016/j.neurobiolaging.2019.09.007).
+- Paliwal D, McInerney TW, Pa J, Swerdlow RH, Easteal S, Andrews SJ. (2021). “Mitochondrial pathway polygenic risk scores are associated with Alzheimer’s Disease.” *Neurobiology of Aging*. [doi:10.1016/j.neurobiolaging.2021.08.005](https://doi.org/10.1016/j.neurobiolaging.2021.08.005).
+- McInerney TW, Fulton-Howard B, Patterson C, et al. (2021). “A globally diverse reference alignment and panel for imputation of mitochondrial DNA variants.” *BMC Bioinformatics*. [doi:10.1186/s12859-021-04337-8](https://doi.org/10.1186/s12859-021-04337-8).
+- Yu NYD, Andrews SJ, Hou L, Fornage M, Yaffe K. (2025). “Mitochondrial haplogroups, but not heteroplasmy, are associated with midlife cognitive function.” *Alzheimer’s & Dementia*. [doi:10.1002/alz.70839](https://doi.org/10.1002/alz.70839).
+- Harerimana NV, Paliwal D, Romero-Molina C, et al. (2023). “The Role of Mitochondrial genome abundance in Alzheimer’s Disease.” *Alzheimer’s & Dementia*. [doi:10.1002/alz.12812](https://doi.org/10.1002/alz.12812).
+- Chatterjee A, Alvarez B, Sharma RU, et al. (2026). “Evaluating the causal effect of mitochondrial dysfunction on Alzheimer’s and Parkinson’s disease using Polygenic Risk Scores and Mendelian Randomization.” *Alzheimer’s & Dementia*, 22(5):e71469. PMCID: PMC13239222.
