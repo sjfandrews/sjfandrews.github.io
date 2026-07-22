@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: My research seeks to understand the role of both genetic and non-genetic risk factors in the development of Alzheimer’s disease.
+description: My research investigates how genetic, environmental, and social determinants of health interact to shape Alzheimer’s disease risk and progression.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: true
 ---
 

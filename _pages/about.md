@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Assistant Professor</a> at the University of California, San Francisco
+subtitle: <a href='https://profiles.ucsf.edu/shea.andrews'>Assistant Professor</a> at the University of California, San Francisco
 
 profile:
   align: right
