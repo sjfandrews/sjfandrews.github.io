@@ -1,22 +1,25 @@
 ---
-layout: post
 title: "{{title}}"
-date: {{date}} 09:00:00 -0700
+created: {{date}}
+updated: {{date}}
 description: ""
+type: field-note
+status: draft
+publish: false
 tags:
-  - careers
-categories:
-  - field-notes
+  - blog/field-notes
+  - topic/careers
+aliases: []
 ---
 
-<!--
+%%
 Before publishing:
-- Rename this note to YYYY-MM-DD-short-post-title.md.
-- Write a one-sentence description for the blog index.
-- Replace or add topic tags. Suggested tags include careers,
-  research-practice, philosophy-of-science, and science-of-science.
-- Move the finished note into _posts/ and preview the site locally.
--->
+- Complete the description property.
+- Replace or add topic tags.
+- Set status to complete when the draft is ready.
+- Convert the note to Jekyll Markdown; do not move this Obsidian note
+  directly into _posts/.
+%%
 
 Open with two or three sentences introducing the question or observation and why it has been on my mind.
 
