@@ -22,7 +22,7 @@ I led a comprehensive analysis of 22 modifiable factors across the “Alzheimer�
 ## Selected publications
 
 - Andrews SJ, Boeriu AI, Belloy ME, et al. (2024). “Dementia risk scores, apolipoprotein E, and risk of Alzheimer’s disease: One size does not fit all.” *Alzheimer’s & Dementia*. [doi:10.1002/alz.14300](https://doi.org/10.1002/alz.14300).
-- Okorie M, Jiang X, Yaffe K, Yokoyama JS, Andrews SJ. (2026). “Associations of dementia polyexposure scores to Alzheimer’s disease endophenotypes in diverse populations.” *medRxiv*. [doi:10.64898/2026.01.10.26343864](https://doi.org/10.64898/2026.01.10.26343864).
+- Okorie M, Jiang X, Yaffe K, Yokoyama JS, Andrews SJ. (2026). “Associations of dementia polyexposure scores to Alzheimer’s disease endophenotypes in a diverse population.” *Alzheimer’s & Dementia*. [doi:10.1002/alz.71567](https://doi.org/10.1002/alz.71567).
 - Andrews SJ, Eramudugolla R, Velez JI, et al. (2017). “Validating the role of the Australian National University Alzheimer’s Disease Risk Index (ANU-ADRI) and a genetic risk score in progression to cognitive impairment.” *Alzheimer’s Research & Therapy*. [doi:10.1186/s13195-017-0240-3](https://doi.org/10.1186/s13195-017-0240-3).
 - Andrews SJ, McFall GP, Dixon RA, et al. (2019). “Alzheimer’s Environmental and Genetic Risk Scores are Differentially Associated With General Cognitive Ability and Dementia Severity.” *Alzheimer Disease & Associated Disorders*. [doi:10.1097/WAD.0000000000000292](https://doi.org/10.1097/WAD.0000000000000292).
 - Andrews SJ, Fulton-Howard B, O’Reilly P, Marcora E, Goate AM. (2021). “Causal Associations Between Modifiable Risk Factors and the Alzheimer’s Phenome.” *Annals of Neurology*. [doi:10.1002/ana.25918](https://doi.org/10.1002/ana.25918).
