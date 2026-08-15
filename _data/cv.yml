@@ -1,7 +1,6 @@
 cv:
   name: Shea Andrews
-  label: Genetic epidemiologist
-  email: shea.andrews@ucsf.edu
+  label: Assistant Professor of Psychiatry and Behavioral Sciences, University of California, San Francisco
   image: ""
   address:
     city: San Francisco
@@ -78,6 +77,3 @@ cv:
         highlights:
           - Laboratory of Dr. Joe Rothnagel
           - "Characterization of peptides encoded by upstream open reading frames."
-
-    Languages:
-      - name: English
