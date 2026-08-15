@@ -8,12 +8,21 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>San Francisco, CA</p>
 
-news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true
+  scrollable: true
+  limit: 5
+
+latest_posts:
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
 I am a genetic epidemiologist and Assistant Professor of Psychiatry and Behavioral Sciences at the University of California, San Francisco. My research investigates how genetic, environmental, and social determinants of health interact to shape Alzheimer’s disease pathogenesis, with the goal of developing predictive models that support personalized approaches to dementia prevention. Because persistent disparities in Alzheimer’s disease disproportionately affect underrepresented populations, my work places particular emphasis on racial and ethnic differences in disease risk, biomarkers, and health outcomes.

@@ -1,99 +1,79 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Shea Andrews
-#    - name: Date of Birth
-#      value: 14th March 1879
-    - name: Languages
-      value: English
+cv:
+  name: Shea Andrews
+  label: Assistant Professor of Psychiatry and Behavioral Sciences, University of California, San Francisco
+  image: ""
+  address:
+    city: San Francisco
+    region: CA
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD, Medical Sciences
-      institution: The Australian National University, ACT, Australia
-      year: 2017
-    - title: BSc, Major in Genetics with Honours Class I in Biochemistry
-      institution: The University of Queensland, QLD, Australia
-      year: 2012
-    - title: BA, dual Major in Journalism and Mass Communication, and Political Science
-      institution: The University of Queensland, QLD, Australia
-      year: 2010
+  sections:
+    Education:
+      - institution: The Australian National University
+        location: ACT, Australia
+        area: Medical Sciences
+        studyType: PhD
+        date: "2017"
 
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: Assistant Professor 
-      institution: University of California San Francisco, San Francisco, CA
-      year: 2022 - pres
+      - institution: The University of Queensland
+        location: QLD, Australia
+        area: Genetics with Honours Class I in Biochemistry
+        studyType: BSc
+        date: "2012"
 
-    - title: Instructor
-      institution: Icahn School of Medicine at Mount Sinai, New York, NY
-      year: 2021 - 2022
-      description:
-        - Laboratory of Dr. Alison Goate
-        - Using genomics to identify risk factors for Alzheimer's disease
+      - institution: The University of Queensland
+        location: QLD, Australia
+        area: dual Major in Journalism and Mass Communication, and Political Science
+        studyType: BA
+        date: "2010"
 
-    - title: Postdoctoral research fellow
-      institution: Icahn School of Medicine at Mount Sinai, New York, NY
-      year: 2018 - 2021
-      description:
-        - Laboratory of Dr. Alison Goate
-        - Genetic variation in Alzheimer's disease and dementia endophenotypes.
+    Experience:
+      - company: University of California San Francisco
+        position: Assistant Professor
+        location: San Francisco, CA
+        start_date: 2022
+        end_date: present
 
-    - title: Postdoctoral research fellow
-      institution: The Australian National University, Canberra, Australia
-      year: 2016 - 2017
-      description:
-        - Laboratory of Dr. Kaaring Anstey
-        - "Cognitive Resilience: Exploring how non-genetic risk factors moderate genetic predisposition to dementia."
+      - company: Icahn School of Medicine at Mount Sinai
+        position: Instructor
+        location: New York, NY
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Laboratory of Dr. Alison Goate
+          - Using genomics to identify risk factors for Alzheimer's disease
 
-    - title: Graduate student researcher
-      institution: The Australian National University, Canberra, Australia
-      year: 2013 - 2016
-      description: 
-        - Laboratory of Dr. Simon Easteal
-        - "Predicting cognitive decline: Genetic, environmental and lifestyle risk factors."
+      - company: Icahn School of Medicine at Mount Sinai
+        position: Postdoctoral research fellow
+        location: New York, NY
+        start_date: 2018
+        end_date: 2021
+        highlights:
+          - Laboratory of Dr. Alison Goate
+          - Genetic variation in Alzheimer's disease and dementia endophenotypes.
 
-    - title: Honors student researcher
-      institution: The University of Queensland, Brisbane, Australia
-      year: 2011 - 2012
-      description: 
-        - Laboratory of Dr. Joe Rothnagel
-        - "Characterization of peptides encoded by upstream open reading frames."
+      - company: The Australian National University
+        position: Postdoctoral research fellow
+        location: Canberra, Australia
+        start_date: 2016
+        end_date: 2017
+        highlights:
+          - Laboratory of Dr. Kaaring Anstey
+          - "Cognitive Resilience: Exploring how non-genetic risk factors moderate genetic predisposition to dementia."
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+      - company: The Australian National University
+        position: Graduate student researcher
+        location: Canberra, Australia
+        start_date: 2013
+        end_date: 2016
+        highlights:
+          - Laboratory of Dr. Simon Easteal
+          - "Predicting cognitive decline: Genetic, environmental and lifestyle risk factors."
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      - company: The University of Queensland
+        position: Honors student researcher
+        location: Brisbane, Australia
+        start_date: 2011
+        end_date: 2012
+        highlights:
+          - Laboratory of Dr. Joe Rothnagel
+          - "Characterization of peptides encoded by upstream open reading frames."

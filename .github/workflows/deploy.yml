@@ -23,13 +23,22 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.2'
-        bundler: '2.4.10'
+        ruby-version: '3.3.5'
+        bundler: '4.0.6'
         bundler-cache: true
     - name: Build website
       env:
         JEKYLL_ENV: production
       run: bundle exec jekyll build
+    - name: Upload review build
+      uses: actions/upload-artifact@v4
+      with:
+        name: al-folio-v1-review-site
+        path: |
+          _site
+          migration-artifacts
+        if-no-files-found: error
+        retention-days: 7
 
   deploy:
     if: github.event_name == 'push'
@@ -42,8 +51,8 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.2'
-        bundler: '2.4.10'
+        ruby-version: '3.3.5'
+        bundler: '4.0.6'
         bundler-cache: true
     - name: Setup deploy options
       id: setup
