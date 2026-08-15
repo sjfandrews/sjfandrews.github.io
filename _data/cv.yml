@@ -13,19 +13,19 @@ cv:
         location: ACT, Australia
         area: Medical Sciences
         studyType: PhD
-        end_date: 2017
+        date: "2017"
 
       - institution: The University of Queensland
         location: QLD, Australia
         area: Genetics with Honours Class I in Biochemistry
         studyType: BSc
-        end_date: 2012
+        date: "2012"
 
       - institution: The University of Queensland
         location: QLD, Australia
         area: dual Major in Journalism and Mass Communication, and Political Science
         studyType: BA
-        end_date: 2010
+        date: "2010"
 
     Experience:
       - company: University of California San Francisco
